@@ -3,7 +3,7 @@
 #define K 13                             ///https://www.youtube.com/watch?v=RFVJHeDL9LA&t=611s (BASED ON THIS VIDEO TO GET THE IDEA OF K PRIME NUMBERS DECIMALS)///
 
 void prime(int n);                        
-void binary(int d);                      ///TRANSFORM ALL THE FIRST K NUMBERS INTO NINARY///
+void binary(int d);                      ///TRANSFORM ALL THE FIRST K NUMBERS INTO BINARY///
 int main() {
  
   prime(K); 
