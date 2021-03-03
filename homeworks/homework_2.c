@@ -1,9 +1,9 @@
 #include<stdio.h>                        ///Raúl Chavez explain me how to do the homework//
 #include<math.h>
-#define K 13 ///THE FIRST K NUMBERS///   ///https://www.youtube.com/watch?v=RFVJHeDL9LA&t=611s (BASED ON THIS VIDEO)///
+#define K 13                             ///https://www.youtube.com/watch?v=RFVJHeDL9LA&t=611s (BASED ON THIS VIDEO TO GET THE IDEA OF K PRIME NUMBERS DECIMALS)///
 
 void prime(int n);                        
-void binary(int d);
+void binary(int d);                      ///TRANSFORM ALL THE FIRST K NUMBERS INTO NINARY///
 int main() {
  
   prime(K); 
