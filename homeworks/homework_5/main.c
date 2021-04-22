@@ -1,3 +1,7 @@
+///Instrucciones para compilar el codigo: Primero se coloca este archivo main. c en el compilador, despues se añade otra "hojita" para un file adicional que se encuentra en esta misma carpeta con calc.h///
+
+///las instrucciones del juego se veran conforme se compile el programa, enjoy!!///
+
 #include <assert.h>  ///-assert ///          ////Me base en el libro: Brian W. Kernighan, Dennis M. Ritchie - The C Programming Language, Second Edition (1988); para poder ubicarme en el orden mas adecuado para el cÃ³digo///
 #include <ctype.h>   ///-toupper ///
 #include <stdio.h>   ///-printf, scanf ///
