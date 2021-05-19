@@ -18,7 +18,7 @@ So, it is a fact that innovation for these businesses is fundamental and essenti
 
 ## Project Plan
 The tasks or facilities of my project will be:
-* ** Product Categorization **: The program is designed so that the store indicates to the programmer the products it sells with their respective prices and finally also indicates the category of each product. For the programmer to place them in such a way in the code.
+* ** Product Categorization: ** The program is designed so that the store indicates to the programmer the products it sells with their respective prices and finally also indicates the category of each product. For the programmer to place them in such a way in the code.
 -In this case, the store for which this program was designed indicated the products and the categories in which they sell it (aunt) -
 
    Example (Category: Fast Food -> Pizza (4 people), etc ...).
