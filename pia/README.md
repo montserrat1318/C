@@ -45,17 +45,17 @@ Also, it is important to mention that in the selection process of the order     
 
 ** -> The ticket contains ** the name of the store, the products with the quantity purchased by the customer with the total purchase price; And it also includes the specification of the promotions or discount codes that were applied automatically in the purchase, the added IVA and with all that information, finally, the total price to pay also appears.
 
-##Demostration Of The Final Project
+## Demostration Of The Final Project
 -->To access to the demo (YouTube video) of the previously described program, **click on the link below:**
 
 >Link to the demo [here](https://www.youtube.com/watch?v=Jx3qH6_0qPA&t=24s).
 
 -->**Check the following section ("Cases Applied in my Demo") to know** in a detailed and written way **the cases made in the demo of the program.**
 
-##Cases Applied in my Demo
+## Cases Applied in my Demo
 
-##References
-For this project or the shopping cart program, I use certain fundamental references to carry out functions, libraries, etc... of the code, which are the following:
+## References
+-->For this project or the shopping cart program, I use certain fundamental references to carry out functions, libraries, etc... of the code, which are the following:
 
 1.- Kernighan, B. W., & Ritchie, D. M. (1973). The C Programming Language (2.a ed.) [Libro electrónico]. Prentice Hall. http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
 
