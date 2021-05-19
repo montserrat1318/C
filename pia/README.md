@@ -10,7 +10,7 @@ So, it is a fact that innovation for these businesses is fundamental and essenti
 
 ## Table of Contents of the Project
 * [Project Plan](#Project-Plan)
-* [Demo of the Program](#Demostration-Of-The-Final-Program)
+* [Demostration Of The Final Project](#Demostration-Of-The-Final-Program)
 * [Cases Applied in my Demo](#Cases-Applied-in-my-Demo)
 * [References](#References)
 * [Contact](#Contact)
@@ -43,7 +43,7 @@ Also, it is important to mention that in the selection process of the order     
 
 * ** Generate Ticket **: The program has the ability or facility to generate a ticket automatically through a Ticket.txt, which is automatically updated at the time of generating purchase after purchase.
 
-** -> The ticket contains ** the name of the store, the products with the quantity purchased by the customer with the total purchase price; And it also includes the specification of the promotions or discount codes that were applied automatically in the purchase, the added IVA and with all that information, finally, the total price to pay also appears.
+** -> The ticket contains ** the name of the store, the products with the quantity purchased by the customer with the total purchase price; And it also includes the specification of the promotions or discount codes that were applied automatically in the purchase, the added IVA and with all that information, finally, the total price to pay also appears.**
 
 ## Demostration Of The Final Project
 -->To access to the demo (YouTube video) of the previously described program, **click on the link below:**
