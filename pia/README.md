@@ -55,7 +55,7 @@ Also, it is important to mention that in the selection process of the order     
 ##Cases Applied in my Demo
 
 ##References
--->For this project or the shopping cart program, I use certain fundamental references to carry out functions, libraries, etc... of the code, which are the following:
+For this project or the shopping cart program, I use certain fundamental references to carry out functions, libraries, etc... of the code, which are the following:
 
 1.- Kernighan, B. W., & Ritchie, D. M. (1973). The C Programming Language (2.a ed.) [Libro electrónico]. Prentice Hall. http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
 
