@@ -1,12 +1,3 @@
-			The Fastest & Coolest - Market
+//Este header va a ser generado de manera automatica al compilar y "terminar la compra" (funcion del programa). //
 
-	Products:			Amount:		Price:
-	       Tomato			10		$50
-	      Avocado			5		$50
-
-
-	Discount Codes Applied:
-	ProTuesday&Wednesday		15%		-15.00
-				Iva:	16%		16.00
-
-				Total:			101.00
+//En este header se dara el TICKET de manera automatica y se ira actualizando por cada ejecucion del programa (cada vez que el ususario lo compile y termine compra tras compra)//
