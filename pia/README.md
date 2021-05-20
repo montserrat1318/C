@@ -90,12 +90,11 @@ Also, it is important to mention that in the selection process of the order     
 
 1.- Kernighan, B. W., & Ritchie, D. M. (1973). The C Programming Language (2.a ed.) [Electronic Book]. Prentice Hall. 
 
-2.- Silverman, J. H. (2007, 15 Jan). The C Reference Card (ANSI). CRefCardVolume2. 
+2.- Silverman, J. H. (2007, 15 Jan). The C Reference Card (ANSI). CRefCardVolume2.  [here](https://www.ibm.com/docs/en/i/7.2?topic=functions-converting-numbers-numval-numval-c).
 
-3.- Cómo calcular qué día de la semana fue. (2016, 28 Jan). Gaussianos. https://www.gaussianos.com/como-calcular-que-dia-de-la-semana-fue/
+3.- Cómo calcular qué día de la semana fue. (2016, 28 Jan). Gaussianos.[here](https://www.gaussianos.com/como-calcular-que-dia-de-la-semana-fue/). 
 
-4.- Converting to Numbers (NUMVAL, NUMVAL-C). (s. f.). Valnum. Recovered 11 de may de 2021
-https://www.ibm.com/docs/en/i/7.2?topic=functions-converting-numbers-numval-numval-c
+4.- Converting to Numbers (NUMVAL, NUMVAL-C). (s. f.). Valnum. Recovered 11 de may de 2021 [here](https://www.ibm.com/docs/en/i/7.2?topic=functions-converting-numbers-numval-numval-c).
 
 ## Contact
 You can contact me in:
