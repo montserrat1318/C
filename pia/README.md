@@ -12,6 +12,7 @@ So, it is a fact that innovation for these businesses is fundamental and essenti
 * [Project Plan](#Project-Plan)
 * [Demostration Of The Final Project](#Demostration-Of-The-Final-Project)
 * [Cases Applied in my Demo](#Cases-Applied-in-my-Demo)
+* [Instructions to Compile the Program](#Instructions-to-Compile-theProgram)
 * [References](#References)
 * [Contact](#Contact)
 <!-- * [License](#license) -->
@@ -65,6 +66,24 @@ Also, it is important to mention that in the selection process of the order     
 * **CASE 5:** In the shopping cart add 1 coca-cola, 1 pizza (4 people), 15 ACE detergent, 2 Olive Oil and 1 Roll Paper (purchase over 1,000 pesos) (remove products), and before completing the total purchase; remove 1 Pizza (4 people). **Objective to demonstrate:** Demonstrate that the advance promotion of 1,000 pesos will be applied automatically (15% discount). And that **removing a product from the shopping cart does not affect anything.** *And being Wednesday, the promotion of the day will not be applied because there are no products in the "Fruits and Vegetables" category.*
 
 * **CASE 6:** In the shopping cart add 10 coca-cola, 3 duvalines, 1 paper roll, and then add 1 coca-cola again (purchase less than 1,000 pesos) (eliminate products), and before complete the total purchase; remove 1 duvalin. **Objective to demonstrate:** Show that the correct amount of coca-cola will be applied to the ticket, despite adding amounts of the same product at different times.
+
+## Instructions to Compile the Program
+-->To compile correctly the program, follow the next instructions:
+
+1.- Open Dev C++ or OnlineGDB Compiler **(It´s better if you used Dev C++, to have a better experience with the cleanliness of the program in the moment of run it) (But online compiler works too, of course.)**
+
+2.- Open or put the file *"shoppingcart.c"* (founded in carpet: pia->codes->shoppingcart.c) on the compiler
+
+3.- Create another file in that same project (compiler project), in which you will put the header *"menus.h"* (founded in carpet: pia->codes->menus.h)
+
+4.- Execute the program as you wish and in the final step of the program *("End of the shopping cart actual order")*, you will notice that...
+
+5.- It will appear a file called *"Ticket.txt"; that .txt appears **AUTOMATICALLY** at the end of every *("End of the shopping cart actual order")*
+
+**NOTE ABOUT THE TICKET.txt:** The ticket.txt file, it is automatically updated at the end of each purchase made by the user (please give "refresh" every time the program asks if you want to update your ticket).
+
+**TIP FOR THE FILE TICKET.txt:** The ticket.txt file, **it is best viewed from a .txt file (aligned)** (not from dev c ++, as it looks a bit misaligned from the console) **or from the online** (it looks perfectly aligned)
+
 
 ## References
 -->For this project or the shopping cart program, I use certain fundamental references to carry out functions, libraries, etc... of the code, which are the following:
