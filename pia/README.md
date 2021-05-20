@@ -10,6 +10,7 @@ So, it is a fact that innovation for these businesses is fundamental and essenti
 
 ## Table of Contents of the Project
 * [Project Plan](#Project-Plan)
+* [Autoevaluation](#Autoevaluation)
 * [Demostration Of The Final Project](#Demostration-Of-The-Final-Project)
 * [Cases Applied in my Demo](#Cases-Applied-in-my-Demo)
 * [Instructions to Compile the Program](#Instructions-to-Compile-the-Program)
@@ -45,6 +46,22 @@ Also, it is important to mention that in the selection process of the order     
 * **Generate Ticket:** The program has the ability or facility to generate a ticket automatically through a Ticket.txt, which is automatically updated at the time of generating purchase after purchase.
 
 **-> The ticket contains the name of the store, the products with the quantity purchased by the customer with the total purchase price; And it also includes the specification of the promotions or discount codes that were applied automatically in the purchase, the added IVA and with all that information, finally, the total price to pay also appears.**
+
+## Autoevaluation
+This project became a total challenge for me, I tried to implement everything I learned and also to be able to investigate with more functions to make my code more complex but optimal in its structure, I know that I should continue working but I consider that I did an excellent job in this draft.
+The self-evaluation that I give myself is the following:
+
+-Complexity: **3 points** I think it is a job full of acquired knowledge and even knowledge that I acquired in the process, I implemented things that I had never put to improve cleaning and others. I consider that it is a topic and a necessary program in daily life, and where it implies difficulty to automatically program the .txt and discount codes (for days of the week in certain categories of articles), and that is why I give myself that amount.
+
+-Functionality: **3 points**. Speaking of functionality, I consider that the code perfectly does everything that was planned and in a fast way at the time of execution, it is also completely easy for the user (anyone could execute it and that was the purpose).
+
+-Code: ** 3points** I consider that it is very optimized and that it implements new functions that I learned when doing this code and I like that, I did not want to stay with what I could grasp before, but I tried to investigate more to obtain best results.
+
+-Storage: **2 points**. I think it has good storage usage (but I think it can be improved).
+
+-Documentation: **3 points**. I consider that there are all the points that need to be known and I specify the details of the cases of the demonstration (youtube); I did it in an orderly and clean way; also check with time and detail my grammar and writing.
+
+**I think I can have 14/15 points. I'll keep working to improve, thank you very much!**
 
 ## Demostration Of The Final Project
 -->To access to the demo (YouTube video) of the previously described program, **click on the link below:**
