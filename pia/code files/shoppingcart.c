@@ -546,3 +546,5 @@ int valnum (char num[]){
 			}}
 			return 1;
 			}
+//system("cls"): Lo puse para limpiar la pantalla en cada menu, ya que queria que se viera más limpio mi proyecto final y considero que era la mejor opcion
+//system("pause"): Lo puse para que cuando surga un error en el input, pues se pause la linea de codigo hasta que el usuario presione una tecla
