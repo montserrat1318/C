@@ -69,9 +69,9 @@ Also, it is important to mention that in the selection process of the order     
 ## References
 -->For this project or the shopping cart program, I use certain fundamental references to carry out functions, libraries, etc... of the code, which are the following:
 
-1.- Kernighan, B. W., & Ritchie, D. M. (1973). The C Programming Language (2.a ed.) [Electronic Book]. Prentice Hall. http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
+1.- Kernighan, B. W., & Ritchie, D. M. (1973). The C Programming Language (2.a ed.) [Electronic Book]. Prentice Hall. 
 
-2.- Silverman, J. H. (2007, 15 Jan). The C Reference Card (ANSI). CRefCardVolume2. https://www.math.brown.edu/johsilve/ReferenceCards/CRefCard.v2.2.pdf
+2.- Silverman, J. H. (2007, 15 Jan). The C Reference Card (ANSI). CRefCardVolume2. 
 
 3.- Cómo calcular qué día de la semana fue. (2016, 28 Jan). Gaussianos. https://www.gaussianos.com/como-calcular-que-dia-de-la-semana-fue/
 
