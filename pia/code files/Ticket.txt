@@ -1,0 +1,12 @@
+			The Fastest & Coolest - Market
+
+	Products:			Amount:		Price:
+	       Tomato			10		$50
+	      Avocado			5		$50
+
+
+	Discount Codes Applied:
+	ProTuesday&Wednesday		15%		-15.00
+				Iva:	16%		16.00
+
+				Total:			101.00
