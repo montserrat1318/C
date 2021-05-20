@@ -72,9 +72,9 @@ Also, it is important to mention that in the selection process of the order     
 
 1.- Open Dev C++ or OnlineGDB Compiler **(It´s better if you used Dev C++, to have a better experience with the cleanliness of the program in the moment of run it) (But online compiler works too, of course.)**
 
-2.- Open or put the file *"shoppingcart.c"* (founded in carpet: pia->codes->shoppingcart.c) on the compiler
+2.- Open or put the file *"shoppingcart.c"* (founded in carpet: pia->code files->shoppingcart.c) on the compiler
 
-3.- Create another file in that same project (compiler project), in which you will put the header *"menus.h"* (founded in carpet: pia->codes->menus.h)
+3.- Create another file in that same project (compiler project), in which you will put the header *"menus.h"* (founded in carpet: pia->code files->menus.h)
 
 4.- Execute the program as you wish and in the final step of the program *("End of the shopping cart actual order")*, you will notice that...
 
