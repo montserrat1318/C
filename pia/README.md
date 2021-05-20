@@ -53,7 +53,7 @@ Also, it is important to mention that in the selection process of the order     
 -->**Check the following section ("Cases Applied in my Demo") to know** in a detailed and written way **the cases made in the demo of the program.**
 
 ## Cases Applied in my Demo
-* **CASE 1:** In the shopping cart add 10 tomatoes and 5 avocados (purchase less than 1,000 pesos) (without eliminating products). **Objective  to demonstrate:** Demonstrate that the promotion of the day will be applied automatically (in the demonstration "ProTuesday & Wednesday" is applied for* 
+* **CASE 1:** In the shopping cart add 10 tomatoes and 5 avocados (purchase less than 1,000 pesos) (without eliminating products). **Objective  to demonstrate:** Demonstrate that the promotion of the day will be applied automatically (in the demonstration "ProTuesday & Wednesday" is applied it)
 
 * **CASE 2:** In the shopping cart add 20 tomatoes and 15 apples (purchase less than 1,000 pesos) (remove products). Before finishing the final purchase, remove 5 apples. **Objective to demonstrate:** Show that the promotion of the day will be applied automatically (in the demonstration "ProTuesday & Wednesday" is applied for the day it was recorded (Wednesday)); and also see that the process of eliminating certain products does not affect anything. 
 
