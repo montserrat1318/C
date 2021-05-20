@@ -53,13 +53,31 @@ Also, it is important to mention that in the selection process of the order     
 -->**Check the following section ("Cases Applied in my Demo") to know** in a detailed and written way **the cases made in the demo of the program.**
 
 ## Cases Applied in my Demo
+* **CASE 1:** In the shopping cart add 10 tomatoes and 5 avocados (purchase less than 1,000 pesos) (without eliminating products). **Objective  to demonstrate:** Demonstrate that the promotion of the day will be applied automatically (in the demonstration "ProTuesday & Wednesday" is applied for* 
+
+* **CASE 2:** In the shopping cart add 20 tomatoes and 15 apples (purchase less than 1,000 pesos) (remove products). Before finishing the final purchase, remove 5 apples. **Objective to demonstrate:** Show that the promotion of the day will be applied automatically (in the demonstration "ProTuesday & Wednesday" is applied for the day it was recorded (Wednesday)); and also see that the process of eliminating certain products does not affect anything. 
+
+* **CASE 3:** In the shopping cart add 10 tomatoes, 5 avocados, 3 duvalines and 2 waters (purchase less than 1,000 pesos) (without eliminating products). **Objective to demonstrate:** Show that the promotion of the day will be applied automatically (in the demonstration "ProTuesday & Wednesday" is applied for the day it was recorded (Wednesday)); **Taking into account that products of categories that do not enter the promotion were added (it does not affect the corresponding promotion to be applied to the account).**
+
+* **CASE 4:** In the shopping cart add 50 avocados and 80 apples (purchase over 1,000 pesos) (without removing products). **Objective to demonstrate:** Show that the promotion of the day will be applied automatically (in the demonstration "ProTuesday & Wednesday" is applied for the day it was recorded (Wednesday)); **and the promotion of 1,000 pesos or more will not be applied ... which gives 15% discount to the total purchase (since the promo of the day predominates always).**
+
+* **CASE 5:** In the shopping cart add 1 coca-cola, 1 pizza (4 people), 15 ACE detergent, 2 Olive Oil and 1 Roll Paper (purchase over 1,000 pesos) (without eliminating products). **Objective to demonstrate:** Demonstrate that the advance promotion of 1,000 pesos will be applied automatically (15% discount). *And being Wednesday, the promotion of the day will not be applied because there are no products in the "Fruits and Vegetables" category.*
+
+* **CASE 6:** In the shopping cart add 1 coca-cola, 1 pizza (4 people), 15 ACE detergent, 2 Olive Oil and 1 Roll Paper (purchase over 1,000 pesos) (remove products), and before completing the total purchase; remove 1 Pizza (4 people). **Objective to demonstrate:** Demonstrate that the advance promotion of 1,000 pesos will be applied automatically (15% discount). And that **removing a product from the shopping cart does not affect anything.** *And being Wednesday, the promotion of the day will not be applied because there are no products in the "Fruits and Vegetables" category.*
+
+* **CASE 7:** In the shopping cart add 10 coca-cola, 3 duvalines, 1 paper roll, and then add 1 coca-cola again (purchase less than 1,000 pesos) (eliminate products), and before complete the total purchase; remove 1 duvalin. **Objective to demonstrate:** Show that the correct amount of coca-cola will be applied to the ticket, despite adding amounts of the same product at different times.
 
 ## References
 -->For this project or the shopping cart program, I use certain fundamental references to carry out functions, libraries, etc... of the code, which are the following:
 
-1.- Kernighan, B. W., & Ritchie, D. M. (1973). The C Programming Language (2.a ed.) [Libro electrónico]. Prentice Hall. http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
+1.- Kernighan, B. W., & Ritchie, D. M. (1973). The C Programming Language (2.a ed.) [Electronic Book]. Prentice Hall. http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
 
-2.- Silverman, J. H. (2007, 15 enero). The C Reference Card (ANSI). CRefCardVolume2. https://www.math.brown.edu/johsilve/ReferenceCards/CRefCard.v2.2.pdf
+2.- Silverman, J. H. (2007, 15 Jan). The C Reference Card (ANSI). CRefCardVolume2. https://www.math.brown.edu/johsilve/ReferenceCards/CRefCard.v2.2.pdf
+
+3.- Cómo calcular qué día de la semana fue. (2016, 28 Jan). Gaussianos. https://www.gaussianos.com/como-calcular-que-dia-de-la-semana-fue/
+
+4.- Converting to Numbers (NUMVAL, NUMVAL-C). (s. f.). Valnum. Recovered 11 de may de 2021
+https://www.ibm.com/docs/en/i/7.2?topic=functions-converting-numbers-numval-numval-c
 
 ## Contact
 You can contact me in:
