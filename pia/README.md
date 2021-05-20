@@ -55,7 +55,7 @@ The self-evaluation that I give myself is the following:
 
 -Functionality: **3 points**. Speaking of functionality, I consider that the code perfectly does everything that was planned and in a fast way at the time of execution, it is also completely easy for the user (anyone could execute it and that was the purpose).
 
--Code: ** 3points** I consider that it is very optimized and that it implements new functions that I learned when doing this code and I like that, I did not want to stay with what I could grasp before, but I tried to investigate more to obtain best results.
+-Code: **3 points** I consider that it is very optimized and that it implements new functions that I learned when doing this code and I like that, I did not want to stay with what I could grasp before, but I tried to investigate more to obtain best results.
 
 -Storage: **2 points**. I think it has good storage usage (but I think it can be improved).
 
